@@ -1,0 +1,2 @@
+# Projeto front-end Página de exemplo
+Projeto de caso de uso desenvolvido durante o cruto HTML5 e CCS3 parte 1 da Alura no qual foi aprendido boas práticas de como usar classes do CSS, ocmo utilizar HTML semântica, tag meta, posicionamento de elementos.
